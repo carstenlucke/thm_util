@@ -1,0 +1,246 @@
+hoersaele:
+  - raumnummer: A1.0.01
+    sitzplaetze_vorlesung: 139
+    bemerkung_vorlesung: "+ 15 Klappstühle ohne Tische"
+    sitzplaetze_klausur: 37
+    bemerkung_klausur: "Klapptische, Stufen. Aufsteigendes Gestühl; für Klausuren kann nur jede 2. Reihe und darin höchstens jeder 2. Platz besetzt werden."
+
+  - raumnummer: A1.0.02
+    sitzplaetze_vorlesung: 109
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 30
+    bemerkung_klausur: "Klapptische, Stufen. Aufsteigendes Gestühl; für Klausuren kann nur jede 2. Reihe und darin höchstens jeder 2. Platz besetzt werden."
+
+  - raumnummer: A1.1.01
+    sitzplaetze_vorlesung: 50
+    bemerkung_vorlesung: "A1.1.01 und A1.1.02 können zu einem großen Raum verbunden werden"
+    sitzplaetze_klausur: 25
+    bemerkung_klausur: ""
+
+  - raumnummer: A1.1.02
+    sitzplaetze_vorlesung: 50
+    bemerkung_vorlesung: "A1.1.01 und A1.1.02 können zu einem großen Raum verbunden werden"
+    sitzplaetze_klausur: 25
+    bemerkung_klausur: ""
+
+  - raumnummer: A1.1.03
+    sitzplaetze_vorlesung: 42
+    bemerkung_vorlesung: "keine Tafel, Medien"
+    sitzplaetze_klausur: 31
+    bemerkung_klausur: "22 + 9: an 11 großen und 9 kleinen Tischen"
+
+  - raumnummer: A2.U1.11
+    sitzplaetze_vorlesung: 52
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 26
+    bemerkung_klausur: ""
+
+  - raumnummer: A2.U1.13
+    sitzplaetze_vorlesung: 52
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 26
+    bemerkung_klausur: ""
+
+  - raumnummer: A2.U1.17
+    sitzplaetze_vorlesung: 48
+    bemerkung_vorlesung: "eingebaute Medienwände"
+    sitzplaetze_klausur: 24
+    bemerkung_klausur: ""
+
+  - raumnummer: A2.0.07
+    sitzplaetze_vorlesung: 18
+    bemerkung_vorlesung: "im Rechnernetzlabor IEM"
+    sitzplaetze_klausur: 9
+    bemerkung_klausur: "3 x 6er Gruppentische"
+
+  - raumnummer: A2.0.10
+    sitzplaetze_vorlesung: 32
+    bemerkung_vorlesung: "im EM Labor IEM"
+    sitzplaetze_klausur: 16
+    bemerkung_klausur: "im EM Labor IEM"
+
+  - raumnummer: A2.1.11
+    sitzplaetze_vorlesung: 102
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 26
+    bemerkung_klausur: "Klapptische, Stufen. Aufsteigendes Gestühl; für Klausuren kann nur jede 2. Reihe und darin höchstens jeder 2. Platz besetzt werden."
+
+  - raumnummer: A2.1.17
+    sitzplaetze_vorlesung: 58
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 29
+    bemerkung_klausur: ""
+
+  - raumnummer: A2.2.06
+    sitzplaetze_vorlesung: 88
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 44
+    bemerkung_klausur: ""
+
+  - raumnummer: A3.U1.05
+    sitzplaetze_vorlesung: 67
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 38
+    bemerkung_klausur: ""
+
+  - raumnummer: A3.U1.07
+    sitzplaetze_vorlesung: 69
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 38
+    bemerkung_klausur: ""
+
+  - raumnummer: A3.U1.10
+    sitzplaetze_vorlesung: 71
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 39
+    bemerkung_klausur: ""
+
+  - raumnummer: A3.U1.12
+    sitzplaetze_vorlesung: 28
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 14
+    bemerkung_klausur: ""
+
+  - raumnummer: A3.U1.13
+    sitzplaetze_vorlesung: 24
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 12
+    bemerkung_klausur: ""
+
+  - raumnummer: A3.0.01
+    sitzplaetze_vorlesung: 48
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 24
+    bemerkung_klausur: ""
+
+  - raumnummer: A3.2.03
+    sitzplaetze_vorlesung: 43
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 22
+    bemerkung_klausur: ""
+
+  - raumnummer: A3.2.08
+    sitzplaetze_vorlesung: 54
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 30
+    bemerkung_klausur: ""
+
+  - raumnummer: A3.2.10
+    sitzplaetze_vorlesung: 54
+    bemerkung_vorlesung: "eingebaute Medienwände"
+    sitzplaetze_klausur: 30
+    bemerkung_klausur: ""
+
+  - raumnummer: A4.0.12
+    sitzplaetze_vorlesung: 90
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 40
+    bemerkung_klausur: "Klapptische, Stufen. Aufsteigendes Gestühl; für Klausuren kann nur jede 2. Reihe und darin höchstens jeder 2. Platz besetzt werden."
+
+  - raumnummer: A4.0.14
+    sitzplaetze_vorlesung: 90
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 40
+    bemerkung_klausur: "Klapptische, Stufen. Aufsteigendes Gestühl; für Klausuren kann nur jede 2. Reihe und darin höchstens jeder 2. Platz besetzt werden."
+
+  - raumnummer: A4.0.19
+    sitzplaetze_vorlesung: 199
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 55
+    bemerkung_klausur: "Klapptische, Stufen. Aufsteigendes Gestühl; für Klausuren kann nur jede 2. Reihe und darin höchstens jeder 2. Platz besetzt werden."
+
+  - raumnummer: A4.1.14
+    sitzplaetze_vorlesung: 51
+    bemerkung_vorlesung: "versenkte PCs"
+    sitzplaetze_klausur: 28
+    bemerkung_klausur: ""
+
+  - raumnummer: A4.1.17
+    sitzplaetze_vorlesung: 16
+    bemerkung_vorlesung: "PC-Arbeitsplätze"
+    sitzplaetze_klausur: 0
+    bemerkung_klausur: ""
+
+  - raumnummer: A4.1.18
+    sitzplaetze_vorlesung: 24
+    bemerkung_vorlesung: "PC-Arbeitsplätze, 48 Sitzplätze nach Umbau"
+    sitzplaetze_klausur: 0
+    bemerkung_klausur: ""
+
+  - raumnummer: B1.0.01
+    sitzplaetze_vorlesung: 80
+    bemerkung_vorlesung: "80 kleine Tische + 1 langer Tisch vorhanden"
+    sitzplaetze_klausur: 40
+    bemerkung_klausur: "für Klausur 40 x 2 kleine Tische + 1 langer Tisch Reserve"
+
+  - raumnummer: B1.0.14
+    sitzplaetze_vorlesung: 28
+    bemerkung_vorlesung: "schwer verschiebbare Tische, unterschiedliche Größe"
+    sitzplaetze_klausur: 14
+    bemerkung_klausur: "PC-Tische = 1 Platz, Tische auf Rollen = 2 Plätze"
+
+  - raumnummer: B1.1.01
+    sitzplaetze_vorlesung: 109
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 32
+    bemerkung_klausur: "Klapptische, Stufen. Aufsteigendes Gestühl; für Klausuren kann nur jede 2. Reihe und darin höchstens jeder 2. Platz besetzt werden."
+
+  - raumnummer: B1.1.03
+    sitzplaetze_vorlesung: 109
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: 32
+    bemerkung_klausur: "Klapptische, Stufen. Aufsteigendes Gestühl; für Klausuren kann nur jede 2. Reihe und darin höchstens jeder 2. Platz besetzt werden."
+
+  - raumnummer: B1.2.06
+    sitzplaetze_vorlesung: 20
+    bemerkung_vorlesung: "PC-Arbeitsplätze"
+    sitzplaetze_klausur: 0
+    bemerkung_klausur: ""
+
+  - raumnummer: B1.2.07
+    sitzplaetze_vorlesung: 27
+    bemerkung_vorlesung: "PC-Arbeitsplätze"
+    sitzplaetze_klausur: 0
+    bemerkung_klausur: ""
+
+  - raumnummer: B2.U1.02
+    sitzplaetze_vorlesung: 20
+    bemerkung_vorlesung: "nur über Fahrstuhl erreichbar"
+    sitzplaetze_klausur: 10
+    bemerkung_klausur: ""
+
+  - raumnummer: A8.0.01A
+    sitzplaetze_vorlesung: 36
+    bemerkung_vorlesung: "A+B zusammengelegt 72"
+    sitzplaetze_klausur: 38
+    bemerkung_klausur: "gilt für A+B zusammen"
+
+  - raumnummer: A8.0.01B
+    sitzplaetze_vorlesung: 36
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: null
+    bemerkung_klausur: "siehe A8.0.01A"
+
+  - raumnummer: A8.0.03A
+    sitzplaetze_vorlesung: 36
+    bemerkung_vorlesung: "zusammengelegt 72"
+    sitzplaetze_klausur: 38
+    bemerkung_klausur: "gilt für A+B zusammen"
+
+  - raumnummer: A8.0.03B
+    sitzplaetze_vorlesung: 36
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: null
+    bemerkung_klausur: "siehe A8.0.03A"
+
+  - raumnummer: A8.1.06A
+    sitzplaetze_vorlesung: 36
+    bemerkung_vorlesung: "zusammengelegt 72"
+    sitzplaetze_klausur: 38
+    bemerkung_klausur: "gilt für A+B zusammen"
+
+  - raumnummer: A8.1.06B
+    sitzplaetze_vorlesung: 36
+    bemerkung_vorlesung: ""
+    sitzplaetze_klausur: null
+    bemerkung_klausur: "siehe A8.1.06A"
